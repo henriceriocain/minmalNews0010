@@ -1,20 +1,8 @@
-# CSCI 2170: Intro to Server-Side Scripting
-
-Fall semester 2025
-
-## Assignment
-
-- Assignment 3
+# minmalNews0010
 
 ## Developer info
 
 - Full name: Henri Cerio-Cain
-- B00/B01 number: B00941447
-- Dal email address: henriceriocain@dal.ca
-
-## Gitlab assignment folder
-
-- Link to the Gitlab project folder: https://git.cs.dal.ca/courses/2025-Fall/csci-2170/assignments/a3/scain.git
 
 ## Application name and description
 
